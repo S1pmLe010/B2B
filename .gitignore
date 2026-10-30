@@ -1,0 +1,28 @@
+# Muhit va maxfiy kalitlar (Environment variables)
+.env
+.env.local
+*.pem
+
+# Bog'liqliklar (Dependencies)
+node_modules/
+vendor/
+
+# Yig'ilgan (Build/Compile) fayllar
+dist/
+build/
+*.exe
+*.dll
+
+# Muharrir va IDE sozlamalari (Editor settings)
+.vscode/
+.idea/
+*.swp
+
+# Tizim fayllari (OS metadata)
+.DS_Store
+Thumbs.db
+
+# Loglar va kesh fayllar
+*.log
+npm-debug.log*
+.cache/
